@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.24.4](https://github.com/viarotel-org/escrcpy/compare/v1.24.3...v1.24.4) (2024-10-23)
+
+
+### Performance Improvements
+
+* ♻️ Script and directory structure optimization ([68378ef](https://github.com/viarotel-org/escrcpy/commit/68378efb51c89095e6b2802bf9936608a156d17a))
+* 💄 Improved Russian display ([ca79e1b](https://github.com/viarotel-org/escrcpy/commit/ca79e1b57d507ba0fc4b2c3dd2411682b3b87105))
+
 ## [1.24.3](https://github.com/viarotel-org/escrcpy/compare/v1.24.2...v1.24.3) (2024-10-21)
 
 
